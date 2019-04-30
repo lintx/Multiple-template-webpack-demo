@@ -1,0 +1,14 @@
+body {
+    color: blue;
+}
+.form-panel {
+    /*background: url("../images/qr.png");*/
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    /*padding:5px;*/
+}
+.form-item-img{
+    background: url("../images/previewbg_spring.jpg");
+    max-width:50px;
+    max-height:50px;
+}
