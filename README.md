@@ -13,4 +13,4 @@ webpack配置文件为默认的`webpack.config.js`
 
 ### npm命令
 1. `npm start`打包测试环境文件
-2. `npm start build`打包生产环境文件
+2. `npm run build`打包生产环境文件
